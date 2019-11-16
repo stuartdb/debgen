@@ -29,7 +29,7 @@
 							'Moldova'=>'ftp.md.debian.org/debian/',
 							'Netherlands'=>'ftp.nl.debian.org/debian/',
 							'New Caledonia'=>'ftp.nc.debian.org/debian/',
-							'New Zealand'=>'ftp.nzv.debian.org/debian/',
+							'New Zealand'=>'ftp.nz.debian.org/debian/',
 							'Norway'=>'ftp.no.debian.org/debian/',
 							'Poland'=>'ftp.pl.debian.org/debian/',
 							'Portugal'=>'ftp.pt.debian.org/debian/',
